@@ -9,4 +9,4 @@
 --- 
 **reach out at**
 
-:bird: [@gpestana](https://gpestana.com) :globe_with_meridians: [gpestana.com](https://www.gpestana.com/)
+:bird: [@gpestana](https://github.com/gpestana) :globe_with_meridians: [gpestana.com](https://www.gpestana.com/)
