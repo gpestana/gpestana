@@ -6,6 +6,8 @@
 
 :no_entry_sign: Fleshing out specs and implementing the [Single Use Reply Blocks](https://ieeexplore.ieee.org/document/1199323) (SURBs) for usign with [p3lib](https://github.com/hashmatter/p3lib) onion routing implementation
 
+![gpestana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpestana&count_private=true&theme=vision-friendly-dark&show_icons=true)
+
 --- 
 **reach out at**
 
